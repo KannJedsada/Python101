@@ -1,0 +1,2 @@
+name = 'Jedsada'
+lastname = 'Chananee'
